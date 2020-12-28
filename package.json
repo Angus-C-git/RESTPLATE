@@ -1,7 +1,7 @@
 {
   "name": "restplate",
   "version": "1.0.0",
-  "description": "REST API for cryptogram",
+  "description": "REST API for your project",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
